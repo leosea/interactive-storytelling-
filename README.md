@@ -1,4 +1,4 @@
-# interactive-storytelling-
+# interactive-storytelling
  interactive storytelling plugin for chatpgt
 
 A plugin for interactive storytelling.
